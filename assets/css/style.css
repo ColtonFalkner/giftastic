@@ -22,25 +22,28 @@ html {
   #title {
       color:#fff;
       text-align:center;
-      font-family: 'Pacifico', cursive;
+      font-family: 'Dosis', sans-serif;
       padding-top:16px;
   }
   
   #buttonArea{
       margin-top:10px;
+      
   }
   
   .btn {
       margin:3px;
+      
   }
   
+
   #gifArea {
       margin-top:20px;
   }
   
-  .orangeBorder {
+  .border {
       border-radius: 5px;
-      border: 2px solid orange;
+      border: 2px solid mediumaquamarine;
   }
   
   .submit {
