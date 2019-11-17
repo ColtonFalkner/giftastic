@@ -1,0 +1,67 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+      background-color:#262626;
+      /* Margin bottom by footer height */
+        margin-bottom: 60px;
+  }
+  
+  #wrap {
+      background-color:#262626;
+      color:#646464;
+  }
+  
+  #header {
+      background-color:black;
+      height:70px;
+  }
+  
+  #title {
+      color:#fff;
+      text-align:center;
+      font-family: 'Pacifico', cursive;
+      padding-top:16px;
+  }
+  
+  #buttonArea{
+      margin-top:10px;
+  }
+  
+  .btn {
+      margin:3px;
+  }
+  
+  #gifArea {
+      margin-top:20px;
+  }
+  
+  .orangeBorder {
+      border-radius: 5px;
+      border: 2px solid orange;
+  }
+  
+  .submit {
+      background-color: #262626;
+      color:white;
+      border:1px solid #646464;
+  }
+  
+  .footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 60px;
+      line-height: 60px;
+      text-align:center;
+      background-color: black;
+  }
+  
+  .credits {
+      font-size: .8em;
+  }
+  .clear {
+      clear:both;
+  }
